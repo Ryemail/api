@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="706545c0-e95a-4528-b640-c8afe6e1a549" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/浙大会务/工具 - api/上传图片.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/浙大会务/报名 - api/签到.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/浙大会务/服务 - api/获取某个会议的所有服务.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/浙大会务/服务 - api/配置某个会议的服务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/浙大会务/服务 - api/获取后台配置的所有服务.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浙大会务/后台/删除服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/浙大会务/服务 - api/删除服务.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浙大会务/后台/更新服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/浙大会务/服务 - api/更新服务.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浙大会务/后台/添加服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/浙大会务/服务 - api/添加服务.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浙大会务/后台/用户注册.md" beforeDir="false" afterPath="$PROJECT_DIR$/浙大会务/用户 - api/用户注册.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浙大会务/后台/用户登录.md" beforeDir="false" afterPath="$PROJECT_DIR$/浙大会务/用户 - api/用户登录.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/浙大会务/后台/用户退出.md" beforeDir="false" afterPath="$PROJECT_DIR$/浙大会务/用户 - api/用户退出.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/配置某个会议的服务.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -91,11 +82,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/获取后台配置的所有服务.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="720">
+                <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/获取某个会议的所有服务.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="208">
+              <caret line="13" column="4" lean-forward="true" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -153,6 +156,7 @@
         <option value="$PROJECT_DIR$/浙大会务/报名 - api/qqq.php" />
         <option value="$PROJECT_DIR$/浙大会务/服务 - api/配置某个会议的服务.md" />
         <option value="$PROJECT_DIR$/浙大会务/服务 - api/获取某个会议的所有服务.md" />
+        <option value="$PROJECT_DIR$/浙大会务/服务 - api/获取后台配置的所有服务.md" />
       </list>
     </option>
   </component>
@@ -235,12 +239,12 @@
       <workItem from="1551149923781" duration="7132000" />
       <workItem from="1552374800389" duration="2485000" />
       <workItem from="1552397724777" duration="7192000" />
-      <workItem from="1553049865339" duration="3626000" />
+      <workItem from="1553049865339" duration="4761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20435000" />
+    <option name="totallyTimeSpent" value="21570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -425,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/删除服务.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/添加服务.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -442,18 +439,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/获取某个会议的所有服务.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/配置某个会议的服务.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="64">
             <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/获取某个会议的所有服务.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="4" lean-forward="true" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/删除服务.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/浙大会务/服务 - api/获取后台配置的所有服务.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="720">
+            <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
